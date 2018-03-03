@@ -1,6 +1,6 @@
 # imogenerative.github.io
 
-**[blog](blog)**
+## [blog](blog)
 
 code is art. or art is code. or I'm a developer with a fine arts degree. this is where I'm keeping the weird art I put on this site for code.
 
