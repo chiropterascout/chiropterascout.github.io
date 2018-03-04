@@ -1,6 +1,6 @@
 # imogenerative.github.io
 
-## >> [blog](blog) << | >> [email](mailto:imogen@dfdt.me) << | >> [github](https://github.com/imogenerative) << | >> [twitter](https://twitter.com/calculush) <<
+## >> [blog](blog)
 
 hi I'm Imogen.
 
@@ -12,6 +12,8 @@ for more of my bullshit visit [@calculush](https://twitter.com/calculush) and/or
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged)
 * [poetry](poetry)
+
+my actual code is on my actual [github](https://github.com/imogenerative).
 
 ---
 
