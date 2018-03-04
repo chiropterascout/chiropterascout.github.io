@@ -1,9 +1,7 @@
 ## imogenerative.github.io
 
-### >> [blog](blog)
-### >> [email](mailto:imogen@dfdt.me)
-### >> [github](https://github.com/imogenerative)
-### >> [twitter](https://twitter.com/calculush)
+\>> [blog](blog) | >> [email](mailto:imogen@dfdt.me) | >> [github](https://github.com/imogenerative) | >> [twitter](https://twitter.com/calculush)
+--- | --- | --- | ---
 
 ---
 
@@ -21,4 +19,3 @@ for more of my bullshit visit [@calculush](https://twitter.com/calculush) and/or
 ---
 
 © 2018 Imogen Fulton.
-
