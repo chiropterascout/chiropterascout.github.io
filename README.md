@@ -1,7 +1,6 @@
 ## imogenerative.github.io
 
-| >> [blog](blog) | >> [email](mailto:imogen@dfdt.me) | >> [github](https://github.com/imogenerative) | >> [twitter](https://twitter.com/calculush) |
-| --- | --- | --- | --- |
+### >> [blog](blog) | >> [email](mailto:imogen@dfdt.me) | >> [github](https://github.com/imogenerative) | >> [twitter](https://twitter.com/calculush)
 
 ---
 
