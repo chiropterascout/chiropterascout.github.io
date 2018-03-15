@@ -9,7 +9,7 @@ code is art. or art is code. or I'm a developer with a fine arts degree (proof: 
 for more of my bullshit visit [@calculush](https://twitter.com/calculush) on twitter.
 
 * [bitlorean](https://bitlorean.herokuapp.com)
-* [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)
+* [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) (my thesis)
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged)
 * [poetry](poetry)
