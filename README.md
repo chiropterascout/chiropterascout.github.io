@@ -12,6 +12,7 @@ for more of my bullshit visit [@calculush](https://twitter.com/calculush) on twi
 * [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) (my thesis)
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged)
+* [option: avoid](http://option-avoid.herokuapp.com/)
 * [poetry](poetry)
 
 my actual code is on my actual [github](https://github.com/imogenerative).
