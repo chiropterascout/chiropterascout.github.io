@@ -83,6 +83,8 @@ By extrapolating to a complex landscape of headlines&mdash;a _newsscape_ - throu
 
 In light of this, the ultimate aim of the project, that is, recontextualising the headline, creates a dichotomy between its meaning and its function. By stripping the function from the headline, it becomes a fleeting glimpse into the potential of a greater understanding. By obscuring the meaning of the headline, it becomes a moment of clarity in a chaotic world. In essence, the recontextualised headline represents in a microcosm the idea that there is more occurring in the world that any one individual could ever hope to understand.
 
+© 2012 Imogen Fulton
+
 ---
 
 - Ahlers, D. (2006, vol. 11, no. 1, winter). News Consumption and the Electronic Media. _Press/Politics_ , pp. 29-52.
