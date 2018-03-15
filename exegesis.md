@@ -1,7 +1,3 @@
----
-title: stay tuned for more
----
-
 # exegesis - _stay tuned for more_
 
 News is a ubiquitous aspect of the modern world, driven by the ease of access via the Internet to a wealth of recent and relevant information on close to any topic. With the advent and take up of the Internet, our society has become one of instant access and the potential of universal understanding of the events that shape our planet. The paradox of the contemporary experience of news, however, is that this is not the case.
