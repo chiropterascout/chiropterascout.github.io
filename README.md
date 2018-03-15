@@ -4,12 +4,12 @@
 
 hi I'm Imogen.
 
-code is art. or art is code. or I'm a developer with a fine arts degree. this is where I'm keeping the weird art I put on this site for code.
+code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://imogenerative.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code.
 
-for more of my bullshit visit [@calculush](https://twitter.com/calculush) and/or [@integrrl](https://twitter.com/integrrl) on twitter.
+for more of my bullshit visit [@calculush](https://twitter.com/calculush) on twitter.
 
 * [bitlorean](https://bitlorean.herokuapp.com)
-* [broken news](http://constanceari.org/portfolio/broken-news/) ([exegesis](https://imogenerative.github.io/exegesis))
+* [broken news](http://constanceari.org/portfolio/broken-news/)
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged)
 * [poetry](poetry)
