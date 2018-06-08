@@ -14,7 +14,7 @@ for more of my nonsense visit [@calculush](https://twitter.com/calculush) on twi
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged)
 * [the markovhead](the-markovhead)
-* [nanoeverything](https://twitter.com/nano_everything
+* [nanoeverything](https://twitter.com/nano_everything)
 * [option: avoid](http://option-avoid.herokuapp.com/)
 * [poetry](poetry)
 
