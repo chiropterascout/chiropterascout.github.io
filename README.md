@@ -12,8 +12,7 @@ for more of my nonsense visit [@calculush](https://twitter.com/calculush) on twi
 * [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) (my thesis)
 * [hypertextuality](https://hypertexuality.herokuapp.com/ww7.html)
 * [lambda calculush](https://twitter.com/lambdacalculush)
-* [markov shrugged](markov-shrugged)
-* [the markovhead](the-markovhead)
+* [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [option: avoid](http://option-avoid.herokuapp.com/)
 * [poetry](poetry)
 
