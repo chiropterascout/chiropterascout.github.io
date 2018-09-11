@@ -14,7 +14,7 @@ for more of my nonsense visit [@calculush](https://twitter.com/calculush) on twi
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [option: avoid](http://option-avoid.herokuapp.com/)
-* [poetry](poetry)
+* **[poetry](poetry)**
 
 my actual code is on my actual [github](https://github.com/imogenerative).
 
