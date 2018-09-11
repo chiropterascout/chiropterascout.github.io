@@ -2,7 +2,7 @@
 
 ## >> [blog](blog)
 
-hi I'm Imogen.
+hi I'm Scout.
 
 code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://imogenerative.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code.
 
@@ -20,4 +20,4 @@ my actual code is on my actual [github](https://github.com/imogenerative).
 
 ---
 
-© 2018 Imogen Fulton.
+© 2018 Scout Fulton.
