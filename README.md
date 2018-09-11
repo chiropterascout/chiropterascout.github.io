@@ -2,11 +2,11 @@
 
 ## >> [blog](blog)
 
-hi I'm Scout.
+hi I'm Scout. or [@calculush](https://twitter.com/calculush).
 
 code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://imogenerative.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code.
 
-for more of my nonsense visit [@calculush](https://twitter.com/calculush) on twitter.
+for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actually don't.)
 
 * [bitlorean](https://bitlorean.herokuapp.com)
 * [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) (my thesis)
@@ -16,7 +16,7 @@ for more of my nonsense visit [@calculush](https://twitter.com/calculush) on twi
 * [option: avoid](http://option-avoid.herokuapp.com/)
 * **[poetry](poetry)**
 
-my actual code is on my actual [github](https://github.com/imogenerative).
+my actual code is on my actual [github](https://github.com/chiropterascout).
 
 ---
 
