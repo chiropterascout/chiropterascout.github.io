@@ -20,4 +20,4 @@ my actual code is on my actual [github](https://github.com/chiropterascout).
 
 ---
 
-© 2018 Scout Fulton.
+© 2018 Scout Quinn.
