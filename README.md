@@ -1,6 +1,6 @@
 # chiropterascout.github.io
 
-## >> [poetry](poetry)
+## >> [games](https://calculush.gq) >> [poetry](poetry)
 
 hi I'm Scout. or [@calculush](https://twitter.com/calculush).
 
@@ -18,6 +18,7 @@ my actual code is on my actual [github](https://github.com/chiropterascout).
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [option: avoid](http://option-avoid.herokuapp.com/)
+* [poetry](poetry)
 * [twines for buttons](https://calculush.gq)
 
 ---
