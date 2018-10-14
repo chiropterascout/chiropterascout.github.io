@@ -97,4 +97,4 @@ In light of this, the ultimate aim of the project, that is, recontextualising th
 
 ---
 
-© 2012 Imogen Fulton
+© 2012 Scout Quinn
