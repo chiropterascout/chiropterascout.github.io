@@ -10,6 +10,7 @@ for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actu
 
 * [bitlorean](https://bitlorean.herokuapp.com)
 * [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) (my thesis)
+* [east richmone alerts](https://twitter.com/ERichmondAlerts)
 * [hypertextuality](https://hypertexuality.herokuapp.com/ww7.html)
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
