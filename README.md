@@ -4,7 +4,7 @@
 
 hi I'm Scout. or [@calculush](https://twitter.com/calculush).
 
-code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://chiropterascout.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [games](https://calculush.gq).
+code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://scoutquinn.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [games](https://calculush.gq).
 
 for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actually don't.)
 
