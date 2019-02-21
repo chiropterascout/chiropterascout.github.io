@@ -1,10 +1,12 @@
-# chiropterascout.github.io
+# scoutquinn.github.io
 
-## >> [games](https://calculush.gq) >> [poetry](poetry)
+## >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
 
 hi I'm Scout. or [@calculush](https://twitter.com/calculush).
 
-code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://scoutquinn.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [games](https://calculush.gq).
+code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](https://scoutquinn.github.io/exegesis)). this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [art games](https://calculush.gq) and ["chipnoise"\*](https://soundcloud.com/razor_lined).
+
+\* *thanks [uboa](https://uboa.bandcamp.com) for that gem.*
 
 for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actually don't.)
 
@@ -21,6 +23,9 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 * [option: avoid](http://option-avoid.herokuapp.com/)
 * [poetry](poetry)
 * [twines for buttons](https://calculush.gq)
+
+## noise:
+* [razor_lined](https://soundcloud.com/razor_lined)
 
 ---
 
