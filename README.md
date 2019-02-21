@@ -29,4 +29,4 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 
 ---
 
-© 2018 Scout Quinn.
+© 2019 Scout Quinn.
