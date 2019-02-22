@@ -12,7 +12,7 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 
 ## art:
 * [bitlorean](https://bitlorean.herokuapp.com)
-* [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) (my thesis)
+* [broken news](http://constanceari.org/portfolio/broken-news/)/[stay tuned for more](http://stay-tuned-for-more.herokuapp.com/) *(my visual thesis)*
 * [east richmond alerts](https://twitter.com/ERichmondAlerts)
 * [karl markov](https://twitter.com/fullcommubot) *(my girlfriend is a communust)*
 * [hypertextuality](https://hypertexuality.herokuapp.com/ww7.html)
