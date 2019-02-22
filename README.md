@@ -6,8 +6,6 @@ hi I'm scout. or [@calculush](https://twitter.com/calculush).
 
 code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](exegesis)). this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [art games](https://calculush.gq) and "[chipnoise]"\*(https://soundcloud.com/razor_lined).
 
-\* *thanks [uboa](https://uboa.bandcamp.com) for that gem.*
-
 for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actually don't.)
 
 my actual code is on my actual [github](https://github.com/scoutquinn).
@@ -28,5 +26,7 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 * [razor_lined](https://soundcloud.com/razor_lined)
 
 ---
+
+\* *thanks [uboa](https://uboa.bandcamp.com) for that gem.*
 
 © 2019 Scout Quinn.
