@@ -1,6 +1,6 @@
 # scoutquinn.github.io
 
-## >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
+## >> [code](https://scout.codes) >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
 
 hi I'm scout. or [@calculush](https://twitter.com/calculush).
 
