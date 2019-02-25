@@ -4,7 +4,7 @@
 
 hi I'm scout. or [@calculush](https://twitter.com/calculush).
 
-code is art. or art is code. or I'm a developer with a fine arts degree (proof: my [exegesis](exegesis)). this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [art games](https://calculush.gq) and "[chipnoise](https://soundcloud.com/razor_lined)"\*.
+code is art. or art is code. or I'm a developer with a fine arts degree. this is where I'm keeping the weird art I put on this site for code. I also make weird conceptual [art games](https://calculush.gq) and "[chipnoise](https://soundcloud.com/razor_lined)"\*.
 
 for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actually don't.)
 
@@ -12,7 +12,7 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 
 ## art:
 * [bitlorean](https://bitlorean.herokuapp.com)
-* [stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)/[broken news](http://constanceari.org/portfolio/broken-news/) *(my thesis)*
+* [stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)/[broken news](http://constanceari.org/portfolio/broken-news/) *(my thesis), (my [exegesis](https://scoutquinn.github.io/exegesis))*
 * [east richmond alerts](https://twitter.com/ERichmondAlerts)
 * [karl marxkov](https://twitter.com/fullcommubot) *(my girlfriend is a communust)*
 * [hypertextuality](https://hypertexuality.herokuapp.com/home.html)
