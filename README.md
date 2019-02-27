@@ -1,6 +1,6 @@
-# scoutquinn.github.io
+# [scoutquinn](http://scout.codes).github.io
 
-## >> [code](https://scout.codes) >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
+## >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
 
 hi I'm scout. or [@calculush](https://twitter.com/calculush).
 
@@ -12,9 +12,9 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 
 ## art:
 * [bitlorean](https://bitlorean.herokuapp.com)
-* [stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)/[broken news](http://constanceari.org/portfolio/broken-news/) *(my thesis), (my [exegesis](https://scoutquinn.github.io/exegesis))*
+* [stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)/[broken news](http://constanceari.org/portfolio/broken-news/)
 * [east richmond alerts](https://twitter.com/ERichmondAlerts)
-* [karl marxkov](https://twitter.com/fullcommubot) *(my girlfriend is a communust)*
+* [karl marxkov](https://twitter.com/fullcommubot)
 * [hypertextuality](https://hypertexuality.herokuapp.com/home.html)
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
@@ -23,16 +23,16 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 ## games:
 * [twines for buttons](https://calculush.gq)
 
-## noise:
-* [razor_lined](https://soundcloud.com/razor_lined)
+## music:
+* [self+noself](https://soundcloud.com/razor_lined/selfnoself)
+* [eighty four](https://soundcloud.com/razor_lined/eighty-four)
+* [inputoutput](https://soundcloud.com/razor_lined/inputoutput)
 
 ## poetry:
 * [poetry](poetry)
 
 ---
 
-&nbsp;\* _shout out to [uboa](https://uboa.bandcamp.com)\*\* for that gem._
-
-\*\* _you should seriously buy her music._
+\* _shout out to [uboa](https://uboa.bandcamp.com) for that gem._
 
 © 2019 Scout Quinn.
