@@ -19,14 +19,19 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 * [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [option: avoid](http://option-avoid.herokuapp.com/)
-* [poetry](poetry)
+
+## games:
 * [twines for buttons](https://calculush.gq)
 
 ## noise:
 * [razor_lined](https://soundcloud.com/razor_lined)
 
+## poetry:
+* [poetry](poetry)
+
 ---
 
-\* *thanks [uboa](https://uboa.bandcamp.com) for that gem.*
+&nbsp;\* _shout out to [uboa](https://uboa.bandcamp.com)\*\* for that gem._
+\*\* _you should seriously buy her music._
 
 © 2019 Scout Quinn.
