@@ -32,6 +32,7 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 ---
 
 &nbsp;\* _shout out to [uboa](https://uboa.bandcamp.com)\*\* for that gem._
+
 \*\* _you should seriously buy her music._
 
 © 2019 Scout Quinn.
