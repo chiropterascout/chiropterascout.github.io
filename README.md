@@ -13,10 +13,7 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 ## art:
 * [bitlorean](https://bitlorean.herokuapp.com)
 * [stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)/[broken news](http://constanceari.org/portfolio/broken-news/)
-* [east richmond alerts](https://twitter.com/ERichmondAlerts)
-* [karl marxkov](https://twitter.com/fullcommubot)
 * [hypertextuality](https://hypertexuality.herokuapp.com/home.html)
-* [lambda calculush](https://twitter.com/lambdacalculush)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [option: avoid](http://option-avoid.herokuapp.com/)
 
@@ -30,6 +27,11 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 
 ## poetry:
 * [poetry](poetry)
+
+## twitter
+* [east richmond alerts](https://twitter.com/ERichmondAlerts)
+* [karl marxkov](https://twitter.com/fullcommubot)
+* [lambda calculush](https://twitter.com/lambdacalculush)
 
 ---
 
