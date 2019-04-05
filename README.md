@@ -1,6 +1,6 @@
 # [scoutquinn](http://scout.codes).github.io
 
-## >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
+## >> [art](https://scoutquinn.github.io/art) >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
 
 hi I'm scout. or [@calculush](https://twitter.com/calculush).
 
@@ -16,6 +16,7 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 * [hypertextuality](https://hypertexuality.herokuapp.com/home.html)
 * [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [option: avoid](http://option-avoid.herokuapp.com/)
+* [photography](https://scoutquinn.github.io/art)
 
 ## games:
 * [twines for buttons](https://calculush.gq)
