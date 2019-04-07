@@ -1,7 +1,3 @@
-# [scoutquinn](http://scout.codes).github.io
-
-## >> [art](https://scoutquinn.github.io/art) >> [games](https://calculush.gq) >> [music](https://soundcloud.com/razor_lined) >> [poetry](poetry)
-
 ![ ](https://raw.githubusercontent.com/scoutquinn/scoutquinn.github.io/master/art/A-3wfHvCAAAN4uo.jpg)
 ![ ](https://raw.githubusercontent.com/scoutquinn/scoutquinn.github.io/master/art/A20KnXoCcAAqQrl.jpg)
 ![ ](https://raw.githubusercontent.com/scoutquinn/scoutquinn.github.io/master/art/A21YEmOCIAAiafd.jpg)
