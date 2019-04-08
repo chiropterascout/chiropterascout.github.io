@@ -11,12 +11,12 @@ for more of my nonsense visit my [twitter](https://twitter.com/calculush). (actu
 my actual code is on my actual [github](https://github.com/scoutquinn).
 
 ## art:
+* [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
 * [bitlorean](https://bitlorean.herokuapp.com)
 * [stay tuned for more](http://stay-tuned-for-more.herokuapp.com/)/[broken news](http://constanceari.org/portfolio/broken-news/)
-* [hypertextuality](https://hypertexuality.herokuapp.com/home.html)
-* [markov shrugged](markov-shrugged) and [the markovhead](the-markovhead)
-* [option: avoid](http://option-avoid.herokuapp.com/)
 * [photography](https://scoutquinn.github.io/art)
+* [option: avoid](http://option-avoid.herokuapp.com/)
+* [hypertextuality](https://hypertexuality.herokuapp.com/home.html)
 
 ## games:
 * [twines for buttons](https://calculush.gq)
@@ -30,8 +30,8 @@ my actual code is on my actual [github](https://github.com/scoutquinn).
 * [poetry](poetry)
 
 ## twitter
-* [east richmond alerts](https://twitter.com/ERichmondAlerts)
 * [karl marxkov](https://twitter.com/fullcommubot)
+* [east richmond alerts](https://twitter.com/ERichmondAlerts)
 * [lambda calculush](https://twitter.com/lambdacalculush)
 
 ---
